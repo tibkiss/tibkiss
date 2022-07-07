@@ -1,7 +1,7 @@
 ## Hello
 
  * I'm currently on sabattical, exploring Options and Equities trading
- * I have recently released an Option Simulator: (MesoSim)[https://deltaray.io]
+ * I have recently released an Option Simulator: [MesoSim](https://deltaray.io)
  * Previously I worked at Alpaca, Cloudera, Hortonworks and IBM.
 
 ## Links
