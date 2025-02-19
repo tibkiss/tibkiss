@@ -1,6 +1,6 @@
 ## Hello
 
- * I'm the founder of Deltaray Research, exploring Options and Equities trading
+ * I'm the founder of [Deltaray Research](https://deltaray.io), exploring Options and Equities trading
  * Previously I worked at Alpaca, Cloudera, Hortonworks and IBM.
 
 ## Links
